@@ -1,0 +1,42 @@
+.navbar-nav .nav-link {
+    color: grey !important;
+    font-size: 1.2rem;
+
+}
+
+.navbar-nav .nav-link:hover {
+    color: black !important;
+    font-size: 1.2rem;
+}
+
+.MainImages{
+    text-align: center;
+
+}
+
+
+.HomeHeader{
+
+    font-family: 'Nerko One', cursive;
+    text-align: center;
+}
+
+
+body {
+    font-family: 'Raleway', sans-serif;
+
+}
+
+
+#blogtitle {
+    font-size: 6rem;
+}
+
+@media (min-width: 992px) {
+    #hometext {
+        font-size: 4rem;
+    }
+    #blogdetailtitle {
+        font-size: 5rem;
+    }
+}
